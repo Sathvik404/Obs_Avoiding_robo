@@ -1,2 +1,6 @@
-# Obs_Avoiding_robo
-This project is an obstacle-avoiding robot built using Arduino and ultrasonic sensors. It detects nearby obstacles in real-time and automatically changes direction to avoid collisions. The robot is ideal for demonstrating basic autonomous navigation and embedded system programming.
+# obs_avoiding_robot
+"self-driving autonomous vehicle" , sounds very interesting right?, here's a simple project on obstacle avoiding robot which is implemented based on Arduino_Uno and senses the environment through ultrasonic sensors. AF-motors,driver shield,servo motor contributes to its functionality.
+->run the code using an arduino IDE by installing all the required libraries.
+->upload the code to arduino uno board 
+->then assemble all the components and connect to the power supply
+->that's it your pet is ready.
