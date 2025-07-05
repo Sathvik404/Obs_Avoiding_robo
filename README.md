@@ -4,3 +4,4 @@
 ->upload the code to arduino uno board 
 ->then assemble all the components and connect to the power supply
 ->that's it your pet is ready.
+![img alt](https://github.com/Sathvik404/Obs_Avoiding_robo/blob/b060366bec6dd7bf6370ed7057b01741b25c01dc/implementation.jpeg)
